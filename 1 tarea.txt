@@ -1,0 +1,55 @@
+algoritmo italiano
+
+entrada:
+cocina
+agua
+olla
+Pan
+Vienesa
+tomate
+palta
+mayo
+ketchup
+
+procesos:
+enceder la ornalla
+hervir agua en la olla, 
+a.colocar las vienesas por 5 minutos en la olla
+b.calentar los panes
+una vez realizados los pasos a y b
+proceder a colocar la vienesa en medio del pan
+y colocar el tomate sobre esta
+luego la palta, la mayo y el ketchup
+servir en un plato 
+
+salida:
+rico italiano casero
+
+
+++++++++-+++++++++++++-++++++
+
+Algoritmo cambio de rueda de vehiculo
+
+entrada:
+auto con rueda pinchada
+gata
+llave de cruz
+rueda de repuesto
+
+proceso:
+soltar los pernos del neumatico con al llave de cruz
+levantar el auto con la gata
+y terminar de quitar los pérnos
+sacar el neumatico pinchado y dejarlo a un costado del vehiculo
+colocar en la misma posicion el neumatico de repuesto y poner los pernos
+bajar la gata y quitarla
+terminar de apretar los pernos
+guardar todo lo utilizado
+
+salida:
+auto tiki taka
+----------
+
+
+Excelente , ordenado y completoel sistema, pondremos todo para salir super preparados!
+
