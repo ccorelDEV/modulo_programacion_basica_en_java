@@ -1,0 +1,77 @@
+Variables
+
+cant_pan: 5 uni
+cant_vienesas: 5 uni
+cant_tomate: 5 uni
+cant_palta: 1 kl
+tipo_pan: de completo
+tipo_vienesa: vacuno
+tipo_tomate: larga vida
+tipo_palta: hass
+
+**********
+
+Algoritmo de Calculo de rendimiento combustible
+
+varibles
+-km
+-litro
+
+contantes
+
+tipo dato:
+-double (km)
+-double (litro)
+
+
+entradas:
+-vehiculo
+-conductor
+-bencina
+
+procesos:
+-km inicial
+-combustible inicial
+-arranque del automovil
+-aceleracion
+-distancia de conduccion
+-km final
+-combustible final
+la diferencia de km final con km inicial
+dividir 
+con la diferencia de combustible
+
+salidas:
+promedio de rendimiento
+------------
+
+
+Algoritmo de Compra Online
+
+Entradas:
+comprador
+tienda
+producto
+
+variables:
+-nombre_cliente: String
+-direccion_cliente: String
+-email_cliente: String
+-nombre_webtienda: String
+-producto: String
+-codigo: int
+
+proceso:
+-se conecta a tienda web
+-se elije producto /cantidad
+-se carga carro de compra
+-se procede a pago
+-se registra direccion de cliente/ datos de despacho
+-se registra email cliente
+-se elije despacho o retiro en tienda
+-se selecciona metodo de pago y se cancela
+-se recepciona voucher de pago /boleta
+cant de producto * precio de producto = valor total
+
+salida:
+-compra exitosa (si se recepciona pronto esta de suerte!)
