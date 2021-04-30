@@ -1,0 +1,101 @@
+entradas:
+
+variables: 
+notas
+promedio
+constante:
+limite = 4
+
+proceso:
+suma de notas del alumno, el total se divide por la cantidad de notas
+se compara este total con el constante 4, si es mayor apreuba, menor reprueba
+
+salida:
+promedio
+
+****************
+
+entrada:
+variable
+-meses = num
+-remuneracion = num
+-promedio1 = float
+-promedio2 = float
+-porcentajeprom = float
+contante 
+-bono: 500.000
+
+proceso:
+
+suma de las meses remuneraciones del año 2020
+se divide x meses = promedio1
+suma de las meses remuneraciones del año 2021
+se divide x meses = promedio2
+
+promedio1 * 0.8 = porcentajeprom
+
+si porcentajeprom es menor o igual a promedio2
+se entrega bono 
+
+si porcentajeprom es mayor a promedio2
+siga participando
+
+salida: 
+confirmacion acreedor bono
+
+*************
+
+Identificar conjuntos
+-Servel
+-Banco
+-Instagram
+
+
+Banco
+Conjuntos Tipo
+-cajas = int
+-cajeros = string
+-modulos = string
+-ejecutivos de cta = string
+-sucursales = string
+-cta cte = int
+-cliente = string
+-local = string
+-dinero = int
+-ejecutivo = string
+
+Instagram
+
+like = int
+seguidores = string
+seguidos = string
+historias = string
+comentarios = string
+fechapublicacion = date
+
+
+
+
+Servel
+Conjuntos / tipo
+Funcionarios = string
+padrón electoral = int
+partidosPolíticos = string
+candidatos= string
+votosObtenidos = int
+cantidadCircunscripciones = int
+
+
+
+*********
+
+- Chile gano la copa bicentenario
+- las matematicas son una ciencia exacta
+- todos aprobaremos el curso de APP Android
+- la noche no tiene luz solar
+- los vehiculos tienen ruedas
+- el lunes voy al trabajo
+
+
+Excelente la clase, no estoy seguro si fue la suma de cosas, ejemplos
+explicaciones y participacion, creo que avanzamos bien
