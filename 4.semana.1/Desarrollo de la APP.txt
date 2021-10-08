@@ -1,0 +1,21 @@
+Desarrollo de la Aplicacion en JAVA
+
+Desarrollar un proyecto en java que tenga siguiente:
+
+- Deberá estar programado utilizando algún patrón de diseño como MVC
+( https://refactoring.guru/es/design-patterns/facade/java/example)
+
+- Deberá seguir estándares y buenas practicas de programación como SOLID así como preocuparse de mantener todos los principios de la programación orientada a objetos
+
+- Deberá construir diagramas de flujo de datos y diagramas de clases para representar el proceso de su proyecto así como la estructura del mismo
+
+- Deberá desarrollar su proyecto de una manera escalable y desacoplada que permita la evolución del proyecto así como la corrección de errores
+
+- Deberá aplicar ser de test unitarios con jUnit
+https://www.softwaretestinghelp.com/junit-tests-examples/
+https://www.tutorialspoint.com/junit/junit_test_framework.htm
+http://tutorials.jenkov.com/java-unit-testing/simple-test.html
+http://www.jtech.ua.es/j2ee/publico/lja-2012-13/sesion04-apuntes.html
+
+ejemplo para correr jUnit en eclipse
+https://www.parasoft.com/junit-tutorial-setting-up-writing-and-running-java-unit-tests/
